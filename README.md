@@ -40,7 +40,7 @@ FC-100 is also divided from CIFAR-100, which is more difficult because it is mor
 
 
 ## Pre-trained backbone
-We provide pre-trained backbones at https://pan.baidu.com/s/1v2k-mdCpGLtKnKG5ijYXMw  keys: 334q
+We provide pre-trained backbones https://pan.baidu.com/s/1jLAUQegxHd4xNZW18govaA keyword: 2xz1
 
 ## :four_leaf_clover: Few-shot Classification
 * Train a 5-way 1-shot SSFormers model based on Conv-64F (on miniImageNet dataset):
